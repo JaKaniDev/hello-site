@@ -22,3 +22,22 @@ A journal of my learning progress as I build and style web pages.
 - What I struggled with: how to use git. lol. And also syntax color 
 - Next steps:Slow down. get focused.
 
+---
+
+## 📅 April 14, 2025 — Major Git & Project Setup Milestone
+
+- Set up my hello-site project directory with index.html, style.css, READ  ME.md, and learning-log.md
+- Learned how to use Nano for editing and enabled word wrap
+- Configured Git and pushed my project to GitHub
+- Handled a merge conflict in index.html and resolved it successfully
+- Synced everything with the remote repo and verified changes on GitHub
+- Installed syntax highlighting for Bash using ble.sh
+- Explored color schemes in Konsole and learned about syntax highlighting  limitations
+- Practiced using git add, git commit, git push, and git pull
+- Got more comfortable with command line navigation and Git basics
+
+🧠 Feeling more confident navigating the terminal, Git, and project structure. Still need to review and internalize the flow of commits, remotes, and merges — but huge progress today.
+
+---
+
+## 

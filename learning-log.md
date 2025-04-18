@@ -47,6 +47,8 @@ A journal of my learning progress as I build and style web pages.
 - Started a second website using W3C knowledge
 - made minor changes to this file and the README file as well. Commited and 
 pushed successfully.
+- I added light text and list formatting, including css for the lists. Pushed 
+the commit successful
 
 - I am getting more and more interested in learnig more each day. I have been 
 into resources and trying what I learn as I go. I haven't really built much as 

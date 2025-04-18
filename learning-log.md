@@ -49,6 +49,7 @@ A journal of my learning progress as I build and style web pages.
 pushed successfully.
 - I added light text and list formatting, including css for the lists. Pushed 
 the commit successful
+- started to play with css styling on the site
 
 - I am getting more and more interested in learnig more each day. I have been 
 into resources and trying what I learn as I go. I haven't really built much as 

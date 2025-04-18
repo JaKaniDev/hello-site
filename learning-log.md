@@ -40,7 +40,7 @@ A journal of my learning progress as I build and style web pages.
 
 ---
 
-## April 17, 2025 - Major ovrall learning progress
+## 📅 April 17, 2025 - Major ovrall learning progress
 
 - Setup W3C account
 - Started working through the W3C Html and CSS knowledge work

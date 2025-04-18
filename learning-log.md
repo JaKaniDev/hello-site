@@ -40,4 +40,24 @@ A journal of my learning progress as I build and style web pages.
 
 ---
 
-## 
+## April 17, 2025 - Major ovrall learning progress
+
+- Setup W3C account
+- Started working through the W3C Html and CSS knowledge work
+- Started a second website using W3C knowledge
+- made minor changes to this file and the README file as well. Commited and 
+pushed successfully.
+
+- I am getting more and more interested in learnig more each day. I have been 
+into resources and trying what I learn as I go. I haven't really built much as 
+far as content for the sites I have started, but that will soon change.
+- I am developing a sence of there I want all this to go. 
+    * Build a couole of websites and develop my sense of development. An 
+html/css site, and a full stack site a little later.
+    * Build an app, or 2. Get a basic sence of what serious development is 
+about.
+    * Get to know AI. Deeply. Fins use cases that can help me achieve more, 
+even add to my career path.
+
+One thing I need to do is get really organized and begin to utilize some 
+critical thinking on tracking what I am doing.
